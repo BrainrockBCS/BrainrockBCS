@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @BrainrockBCS
-- 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 BrainrockBCS/BrainrockBCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
